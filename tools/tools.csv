@@ -1,9 +1,11 @@
-tool,Unit-price,Item-number,manufacturer,description,date purchased
-caulk gun,10.98,525856,lowes,culk gun,01-27-2022
-drill set,99,797362,deWalt,electronic drill with essential bits,01-27-2022
-bucket,4.98,954434,lowes,5 gallon bucket,01-27-2022
-level,6.98,849285,Johnson,level,01-27-2022
-hammer,4.68,753546,WorkPro,hammer,01-27-2022
-putty knife,7.68,745198,Durasoft,putty knife,01-27-2022
-utility knife,8.98,364867,Kobalt,utility knife w/ disposable blades,01-27-2022
-toolbox,10.98,1048639,Craftsman,10 in toolbox,01-27-2022
+tool,Unit-price,Item-number,manufacturer,description,date purchased,status
+caulk gun,10.98,525856,lowes,culk gun,01-27-2022,broken
+drill,99,797362,deWalt,electric drill w/ 2x li-ion batteries and charger,01-27-2022,working
+bucket,4.98,954434,lowes,5 gallon bucket,01-27-2022,working
+level,6.98,849285,Johnson,level,01-27-2022,working
+hammer,4.68,753546,WorkPro,hammer,01-27-2022,working
+putty knife,7.68,745198,Durasoft,putty knife,01-27-2022,working
+utility knife,8.98,364867,Kobalt,utility knife w/ disposable blades,01-27-2022,working
+toolbox,10.98,1048639,Craftsman,10 in toolbox,01-27-2022,working
+caulk gun,8.98,539187,lowes,no drip standard caulk gun,01-28-2022,working
+drill set,29.98,1352094,deWalt,110 piece 4 set drill and bit sets,01-28-2022,working
