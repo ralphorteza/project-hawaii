@@ -1,6 +1,8 @@
-item,Item-number,Unit-price,quantity,manufacturer,description
-frame clip,11175798,3.68,2,HM,fastens window screen to wall
-Water-proof caulk,66835,9.98,2,GE,caulk for kitchen and bath fixtures
-latex gloves,41013,5.48,1,,25 count all purpose latex gloves
-painter’s tape,88026,6.98,1,scotch,blue painter’s tape
-HVAC tape,1604338,10.98,1,3M,1.88 in x 30 in HVAC tape
+item,Item-number,Unit-price,quantity,manufacturer,description,date
+frame clip,11175798,3.68,2,HM,fastens window screen to wall,01-27-2022
+Water-proof caulk,66835,9.98,2,GE,caulk for kitchen and bath fixtures,01-27-2022
+latex gloves,41013,5.48,1,,25 count all purpose latex gloves,01-27-2022
+painter’s tape,88026,6.98,1,scotch,blue painter’s tape,01-28-2022
+HVAC tape,1604338,10.98,1,3M,1.88 in x 30 in HVAC tape,01-28-2022
+carpenter pencil,2560549,0.28,1,Lowes,red carpenter tape,01-29-2022
+wire twist,48558,3.28,1,Ideal,assortment wire twist,01-29-2022
